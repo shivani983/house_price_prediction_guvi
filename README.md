@@ -27,7 +27,9 @@ This project predicts **house prices** using **Multiple Linear Regression** and 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/housing-price-prediction.git
+git clone https://github.com/shivani983/house_price_prediction_guvi.git
+```
+```bash
 cd housing-price-prediction
 ```
 
